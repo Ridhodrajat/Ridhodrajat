@@ -68,9 +68,9 @@ I am an Information Technology student based in Banjarmasin, Indonesia. I enjoy 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridhodrajat&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridhodrajat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridhodrajat&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridhodrajat&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
