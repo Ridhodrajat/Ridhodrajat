@@ -88,7 +88,6 @@ I am an Information Technology student based in Banjarmasin, Indonesia. I enjoy 
 ---
 
 ### ⚡ Recent Milestones
-- 🎯 Leading a 6-8 week development cycle for a pharmacy database & backend system.
 - 🧠 Continuously learning to be a full-stack developer
 
 <br>
